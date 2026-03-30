@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #Setting colored output
 GREEN='\033[0;32m'
